@@ -9,7 +9,7 @@
 </template>
 
 <style>
-/* يمكننا إضافة بعض التنسيق البسيط هنا */
+
 nav {
   padding: 30px;
   text-align: center;
@@ -22,6 +22,6 @@ nav a {
 }
 
 nav a.router-link-exact-active {
-  color: #42b983; /* اللون الأخضر الخاص بـ Vue */
+  color: #42b983; 
 }
 </style>

@@ -1,0 +1,16 @@
+[
+  {
+    "incomeId": "I-2024-07-19-001",
+    "date": "2024-07-19T10:00:00Z",
+    "documentNumber": "DOC-IN-556",
+    "quantity": 50,
+    "totalSum": 750000
+  },
+  {
+    "incomeId": "I-2024-07-20-002",
+    "date": "2024-07-20T14:30:00Z",
+    "documentNumber": "DOC-IN-557",
+    "quantity": 20,
+    "totalSum": 2500000
+  }
+]

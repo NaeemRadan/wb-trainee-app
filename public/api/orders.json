@@ -1,0 +1,23 @@
+[
+  {
+    "orderId": "O-2024-07-21-001",
+    "creationDate": "2024-07-21T09:00:00Z",
+    "status": "В обработке",
+    "totalSum": 154990,
+    "warehouseName": "Основной склад (Москва)"
+  },
+  {
+    "orderId": "O-2024-07-22-002",
+    "creationDate": "2024-07-22T11:20:00Z",
+    "status": "Отправлен",
+    "totalSum": 25000,
+    "warehouseName": "Склад в Санкт-Петербурге"
+  },
+  {
+    "orderId": "O-2024-07-23-003",
+    "creationDate": "2024-07-23T15:00:00Z",
+    "status": "Доставлен",
+    "totalSum": 125000,
+    "warehouseName": "Склад в Новосибирске"
+  }
+]

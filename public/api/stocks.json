@@ -1,0 +1,26 @@
+[
+  {
+    "productId": "P-001",
+    "productName": "Смартфон ProMax 15",
+    "quantity": 45,
+    "warehouseName": "Основной склад (Москва)"
+  },
+  {
+    "productId": "P-002",
+    "productName": "Ноутбук AirBook Lite",
+    "quantity": 18,
+    "warehouseName": "Склад в Санкт-Петербурге"
+  },
+  {
+    "productId": "P-003",
+    "productName": "Беспроводные наушники SoundFree 3",
+    "quantity": 98,
+    "warehouseName": "Основной склад (Москва)"
+  },
+  {
+    "productId": "P-004",
+    "productName": "Умные часы WatchFit 5",
+    "quantity": 70,
+    "warehouseName": "Склад в Новосибирске"
+  }
+]

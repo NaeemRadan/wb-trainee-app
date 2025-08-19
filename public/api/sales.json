@@ -1,0 +1,29 @@
+[
+  {
+    "saleID": "S1001",
+    "date": "2024-07-20T10:00:00Z",
+    "product": "Смартфон ProMax 15",
+    "quantity": 1,
+    "price": 99990,
+    "totalPrice": 99990,
+    "warehouseName": "Основной склад (Москва)"
+  },
+  {
+    "saleID": "S1002",
+    "date": "2024-07-20T11:30:00Z",
+    "product": "Ноутбук AirBook Lite",
+    "quantity": 1,
+    "price": 125000,
+    "totalPrice": 125000,
+    "warehouseName": "Склад в Санкт-Петербурге"
+  },
+  {
+    "saleID": "S1003",
+    "date": "2024-07-21T14:00:00Z",
+    "product": "Беспроводные наушники SoundFree 3",
+    "quantity": 2,
+    "price": 15000,
+    "totalPrice": 30000,
+    "warehouseName": "Основной склад (Москва)"
+  }
+]
